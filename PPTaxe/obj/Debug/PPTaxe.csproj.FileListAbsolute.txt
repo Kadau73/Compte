@@ -1,0 +1,30 @@
+C:\PPTaxe\PPTaxe\bin\Debug\PPTaxe.exe.config
+C:\PPTaxe\PPTaxe\bin\Debug\PPTaxe.exe
+C:\PPTaxe\PPTaxe\bin\Debug\PPTaxe.pdb
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe.csprojAssemblyReference.cache
+C:\PPTaxe\PPTaxe\obj\Debug\MainWindow.g.cs
+C:\PPTaxe\PPTaxe\obj\Debug\App.g.cs
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe_MarkupCompile.cache
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe_MarkupCompile.lref
+C:\PPTaxe\PPTaxe\obj\Debug\MainWindow.baml
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe.g.resources
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe.Properties.Resources.resources
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe.csproj.GenerateResource.cache
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe.csproj.CoreCompileInputs.cache
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe.exe
+C:\PPTaxe\PPTaxe\obj\Debug\PPTaxe.pdb
+C:\Projet Personel\PPTaxe\PPTaxe\bin\Debug\PPTaxe.exe.config
+C:\Projet Personel\PPTaxe\PPTaxe\bin\Debug\PPTaxe.exe
+C:\Projet Personel\PPTaxe\PPTaxe\bin\Debug\PPTaxe.pdb
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe.csprojAssemblyReference.cache
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\MainWindow.g.cs
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\App.g.cs
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe_MarkupCompile.cache
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe_MarkupCompile.lref
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\MainWindow.baml
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe.g.resources
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe.Properties.Resources.resources
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe.csproj.GenerateResource.cache
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe.csproj.CoreCompileInputs.cache
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe.exe
+C:\Projet Personel\PPTaxe\PPTaxe\obj\Debug\PPTaxe.pdb
